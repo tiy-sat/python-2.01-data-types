@@ -1,4 +1,4 @@
-# python-2.01-simple-data-types
+# python-2.01-data-types
 
   1. Fork this repository
   2. Check out your fork
